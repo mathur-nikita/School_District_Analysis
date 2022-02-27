@@ -17,7 +17,7 @@ Maria has been tasked with analyzing information about standardized test data to
 ### How is the district summary affected?
 
 Old district summary:
-![old_district_summary.png](https://github.com/mathur-nikita/School_District_Analysis/blob/main/screenshots/old_district_summary.png)
+![old_district_summary.JPG](https://github.com/mathur-nikita/School_District_Analysis/blob/main/screenshots/old_district_summary.JPG)
 
 New district summary:
 ![district_summary.JPG](https://github.com/mathur-nikita/School_District_Analysis/blob/main/screenshots/district_summary.JPG)
