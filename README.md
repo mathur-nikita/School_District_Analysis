@@ -14,7 +14,7 @@ Maria has been tasked with analyzing information about standardized test data to
 
 ## Results
 
-- How is the district summary affected?
+### How is the district summary affected?
 
 Old district summary:
 ![old_district_summary.png](https://github.com/mathur-nikita/School_District_Analysis/blob/main/screenshots/old_district_summary.png)
@@ -24,15 +24,15 @@ New district summary:
 
 As seen above, there is a slight difference between the old and new district summaries.  The average math scores, passing math percentages, passing reading percentages, and overall passing percentages had small decreases.
 
-- How is the school summary affected?
+### How is the school summary affected?
 
-- How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
-- How does replacing the ninth-grade scores affect the following:
-  - Math and reading scores by grade
-  - Scores by school spending
-  - Scores by school size
-  - Scores by school type
+### How does replacing the ninth-grade scores affect the following:
+- Math and reading scores by grade
+- Scores by school spending
+- Scores by school size
+- Scores by school type
 
 
 ## Summary
