@@ -26,7 +26,21 @@ As seen above, there is a slight difference between the old and new district sum
 
 ### How is the school summary affected?
 
+Old school summary:
+insert screenshot here
+
+New school summary:
+insert screenshot here
+
+As see above, there is a difference between the old and new school summaries.  insert difference here
+
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+
+insert old top and bottom 5 schools
+
+insert new top and bottom 5 schools
+
+After the ninth graders' math and reading scores was replaced, the ranking of Thomas High School compared to the other schools dropped greatly.  Previously it was ranked number 2ish and now it's ranked nexttolastish
 
 ### How does replacing the ninth-grade scores affect the following:
 - Math and reading scores by grade
