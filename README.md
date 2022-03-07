@@ -26,10 +26,10 @@ As seen above, there is a slight difference between the old and new district sum
 
 ### How is the school summary affected?
 
-Old school summary:
+Old school summary (before ninth-grade scores are removed):
 insert screenshot here
 
-New school summary:
+New school summary (after ninth-grade scores are removed):
 insert screenshot here
 
 As see above, there is a difference between the old and new school summaries.  insert difference here
