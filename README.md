@@ -48,9 +48,24 @@ While the average math and reading scores and the percentage of passing math and
  
 #### Math and reading scores by grade
 #### Scores by school spending
+
+Old scores by school spending:
+
+New scores by school spending:
+
+
 #### Scores by school size
+
+Old scores by school size:
+
+New scores by school size:
+
+
 #### Scores by school type
 
+Old scores by school type:
+
+New scores by school type:
 
 ## Summary
 
