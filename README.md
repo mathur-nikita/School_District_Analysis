@@ -94,4 +94,15 @@ As can be seen above, removing ninth-grade scores had no impact on overall score
 
 ## Summary
 
-Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+1) Once all ninth-grade scores were replaced with NaNs ("Not a Number" values), the total percentage of students who passed dropped dramatically.  This is because the number of ninth-graders is still included in all calculations.  In order to have clean data for correct calculations it's not enough to just remove their grades, the students themselves should not be considered.  All calculations for Thomas High School should take place with tenth, eleventh, and twelfth grade students only.
+
+2) Once ninth-grade students are completely removed from the dataset, it can be seen that the overall district summary was not greatly impacted - the difference in values is tiny.
+
+3) The ranking of Thomas High School was also not impacted - it is still ranked second compared to all other schools within the same district, even though it can be seen that the average scores and passing percentages changed slightly.
+
+4) Removal of ninth-grade scores did not impact the following metrics:
+- scores by school spending
+- scores by school size
+- scores by school type
+
+This is possibly the result because the difference in values of the scores before and after removal is so small.
