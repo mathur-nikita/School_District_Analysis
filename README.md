@@ -48,8 +48,14 @@ While the average math and reading scores and the percentage of passing math and
  
 #### Math and reading scores by grade
 
+Old math scores by grade:                
+![old_avg_math_scores.JPG](https://github.com/mathur-nikita/School_District_Analysis/blob/main/screenshots/old_avg_math_scores.JPG)
+
 New math scores by grade:                
 ![avg_math_scores.JPG](https://github.com/mathur-nikita/School_District_Analysis/blob/main/screenshots/avg_math_scores.JPG)
+
+Old reading scores by grade:                 
+![old_avg_reading_scores.JPG](https://github.com/mathur-nikita/School_District_Analysis/blob/main/screenshots/old_avg_reading_scores.JPG)
 
 New reading scores by grade:                 
 ![avg_reading_scores.JPG](https://github.com/mathur-nikita/School_District_Analysis/blob/main/screenshots/avg_reading_scores.JPG)
