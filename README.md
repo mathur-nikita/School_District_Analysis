@@ -27,12 +27,12 @@ As seen above, there is a slight difference between the old and new district sum
 ### How is the school summary affected?
 
 Old school summary (before ninth-grade scores are removed):
-insert screenshot here
+![THS_school_summary.JPG](https://github.com/mathur-nikita/School_District_Analysis/blob/main/screenshots/THS_school_summary.JPG)
 
 New school summary (after ninth-grade scores are removed):
-insert screenshot here
+![THS_school_summary_no_ninth_graders.JPG](https://github.com/mathur-nikita/School_District_Analysis/blob/main/screenshots/THS_school_summary_no_ninth_graders.JPG)
 
-As see above, there is a difference between the old and new school summaries.  insert difference here
+Prior to the removal of ninth-grade scores, the percentage of passing math, passing reading, and overall percentages were all much lower in value (67%, 70%, and 65% respectively).  Once the ninth-grade scores were removed, all of these percentages went up (93%, 97%, and 91% respectively).
 
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
