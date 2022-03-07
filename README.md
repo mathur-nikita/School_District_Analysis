@@ -60,6 +60,8 @@ Old reading scores by grade:
 New reading scores by grade:                 
 ![avg_reading_scores.JPG](https://github.com/mathur-nikita/School_District_Analysis/blob/main/screenshots/avg_reading_scores.JPG)
 
+Replacing the ninth-grade scores did not affect the math and reading scores of the other grades at Thomas High School.  It also did not impact the other schools.  The tables above show that only the ninth-grade scores of Thomas High School students were impacted.
+
 #### Scores by school spending
 
 Old scores by school spending:
@@ -67,6 +69,8 @@ Old scores by school spending:
 
 New scores by school spending:
 ![spending_summary.JPG](https://github.com/mathur-nikita/School_District_Analysis/blob/main/screenshots/spending_summary.JPG)
+
+As can be seen above, removing ninth-grade scores had no impact on school spending.
 
 #### Scores by school size
 
@@ -76,6 +80,8 @@ Old scores by school size:
 New scores by school size:
 ![size_summary.JPG](https://github.com/mathur-nikita/School_District_Analysis/blob/main/screenshots/size_summary.JPG)
 
+As can be seen above, removing ninth-grade scores had no impact on overall scores by school size.
+
 #### Scores by school type
 
 Old scores by school type:                 
@@ -83,6 +89,8 @@ Old scores by school type:
 
 New scores by school type:
 ![type_summary.JPG](https://github.com/mathur-nikita/School_District_Analysis/blob/main/screenshots/type_summary.JPG)
+
+As can be seen above, removing ninth-grade scores had no impact on overall scores by type of school.
 
 ## Summary
 
