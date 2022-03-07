@@ -50,22 +50,26 @@ While the average math and reading scores and the percentage of passing math and
 #### Scores by school spending
 
 Old scores by school spending:
+![old_spending_summary.JPG](https://github.com/mathur-nikita/School_District_Analysis/blob/main/screenshots/old_spending_summary.JPG)
 
 New scores by school spending:
-
+![spending_summary.JPG](https://github.com/mathur-nikita/School_District_Analysis/blob/main/screenshots/spending_summary.JPG)
 
 #### Scores by school size
 
-Old scores by school size:
+Old scores by school size:                
+![old_size_summary.JPG](https://github.com/mathur-nikita/School_District_Analysis/blob/main/screenshots/old_size_summary.JPG)
 
 New scores by school size:
-
+![size_summary.JPG](https://github.com/mathur-nikita/School_District_Analysis/blob/main/screenshots/size_summary.JPG)
 
 #### Scores by school type
 
-Old scores by school type:
+Old scores by school type:                 
+![old_type_summary.JPG](https://github.com/mathur-nikita/School_District_Analysis/blob/main/screenshots/old_type_summary.JPG)
 
 New scores by school type:
+![type_summary.JPG](https://github.com/mathur-nikita/School_District_Analysis/blob/main/screenshots/type_summary.JPG)
 
 ## Summary
 
